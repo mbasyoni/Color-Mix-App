@@ -1,0 +1,5 @@
+{
+  "name": "OT2 Color Mixer",
+  "description": "Predicts 8-channel color mixing ratios from RGB targets with uncertainty analysis for OT2 robot experiments.",
+  "requestFramePermissions": []
+}
